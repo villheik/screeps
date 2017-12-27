@@ -4,5 +4,5 @@
 //         Game.spawns['Spawn1'].
 //     }
 // };
-//
+
 // module.exports = spawner;
